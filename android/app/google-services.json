@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "757331504077",
+    "project_id": "todos-29759",
+    "storage_bucket": "todos-29759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757331504077:android:aeeef1462063d299373284",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757331504077-hvf7v26hhi9viaqunl2u25v8j04ianfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1b2tRgrj2SIx7ghi-0ABnBDPgNyJIWjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757331504077-hvf7v26hhi9viaqunl2u25v8j04ianfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757331504077:android:e445312de5747f41373284",
+        "android_client_info": {
+          "package_name": "com.hopperTechnology.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757331504077-hvf7v26hhi9viaqunl2u25v8j04ianfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1b2tRgrj2SIx7ghi-0ABnBDPgNyJIWjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757331504077-hvf7v26hhi9viaqunl2u25v8j04ianfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
